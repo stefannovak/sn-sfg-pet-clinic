@@ -17,7 +17,7 @@
 
     <groupId>com.stefanalexnovak</groupId>
     <artifactId>sn-sfg-pet-clinic</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
     <name>sn-sfg-pet-clinic</name>
     <description>Demo Pet Clinic Spring Application - Based off John Thompson's Spring course</description>
 
@@ -43,7 +43,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/stefannovak/sn-sfg-pet-clinic.git</developerConnection>
-      <tag>HEAD</tag>
+      <tag>sn-sfg-pet-clinic-0.0.2</tag>
   </scm>
 
 </project>
