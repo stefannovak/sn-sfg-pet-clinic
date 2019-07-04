@@ -3,10 +3,12 @@ package com.stefanalexnovak.snsfgpetclinic.services.springdatajpa;
 import com.stefanalexnovak.snsfgpetclinic.model.PetType;
 import com.stefanalexnovak.snsfgpetclinic.repositories.PetTypeRepository;
 import com.stefanalexnovak.snsfgpetclinic.services.PetTypeService;
+import org.springframework.stereotype.Service;
 
 import java.util.HashSet;
 import java.util.Set;
 
+@Service
 public class PetTypeSDJpaService implements PetTypeService {
 
     private final PetTypeRepository petTypeRepository;
