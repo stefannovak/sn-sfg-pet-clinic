@@ -13,3 +13,7 @@ Did some refactoring on my interfaces, implemented some maps with those interfac
 03/07/19
 --------
 As of the 3rd of July, I've implemented a ton of static resources, added master layouts, create entities and map services. I've begun to implement Hibernate into the project, using JPA and will soon begin writing tests.
+
+05/07/19
+--------
+Implemented Hibernate and JPA mappings to my project. Added profiles and will start Project Lombok on the 7th, then I'll finally implement tests!
