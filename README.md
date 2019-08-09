@@ -17,3 +17,7 @@ As of the 3rd of July, I've implemented a ton of static resources, added master 
 05/07/19
 --------
 Implemented Hibernate and JPA mappings to my project. Added profiles and will start Project Lombok on the 7th, then I'll finally implement tests!
+
+10/08/19
+--------
+Returning to GitHub after a stressful month of returning to work at my old place and getting settled again. I'm thinking about putting this on pause and starting C#.
